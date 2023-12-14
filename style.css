@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+  
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 40px;
+    width: 80%;
+    float: right;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+}
+  
+h1 {
+    margin: 0;
+}
+
+li {
+    font-size: 17px;
+}
+
+p {
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+    color: #bc5d29;
+}
+  
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+nav ul li {
+    display: inline;
+}
+  
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+  
+section {
+    padding: 50px;
+}
+  
+section h2 {
+    margin-top: 0;
+}
+  
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 80%;
+    float: right;
+    bottom: 0;
+
+}
+
+.leftBlock {
+    width: 15%;
+    height: 100%;
+    position: fixed;
+    display: flex;
+    background-color: #282727;
+    padding: 20px;
+}
+
+.centerBlock {
+    width: 50%;
+    text-align: left;
+    float: left;
+    margin-left: 17%;
+}
+
+.rightBlock {
+    width: 30%;
+    text-align: left;
+    float: right;
+}
+
+.logo {
+    font-size: 40px;
+    color: #fff;
+    margin-left: 40px;
+}
+
+.partners {
+    font-size: 17px;
+    color: #fff;
+    margin-top: 50px;
+    margin-left: -20px;
+}
+
+.part {
+    list-style-type: circle;
+    margin-left: -150px;
+    color: #fff;
+}
+
+.par {
+    display: inline;
+    color: #fff;
+    font-size: 11px;
+}
+
+.apart {
+    text-decoration: none;
+    color: #fff;
+}
+
+img {
+    width: 100%;
+    border: 2px solid black;
+    margin-top: 2%;
+    margin-left: -2%;
+}
